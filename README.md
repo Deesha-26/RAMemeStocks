@@ -1,4 +1,4 @@
-# BERTopic Sample Run: 
+# BERTopic Sample Run 
 
 **Sample Run Data:** r/wallstreetbets comments, January 27–28 2021 (Reddit outage days)  
 **Sample size:** 30,000 comments  
