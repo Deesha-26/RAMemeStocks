@@ -39,7 +39,7 @@ Flags are assigned at **topic level**, not comment level. A topic is flagged whe
 19 candidate topics flagged. Examples: ape vs suits framing, Citadel/Melvin references, class warfare language, retail vs institutional distinctions.
 
 ### C — Normative Pressure
-*Calls to hold or buy, not sell — buy/hold encouragement and anti-sell pressure.*  
+*Calls to hold or buy, not sell, buy/hold encouragement and anti-sell pressure.*  
 32 candidate topics flagged. Examples: diamond hands, HODL, anti-paper-hands sentiment, moon/rocket imagery, explicit "don't sell" calls.
 
 
