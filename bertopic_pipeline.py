@@ -191,6 +191,7 @@ topic_model = BERTopic(
 
 topics, _ = topic_model.fit_transform(docs, embeddings=reduced)
 # Here, intentionally passing the UMAP embeddings so that the results can be reused without rerunning the UMAP.
+df["topic"] = topics
 
 topic_info = topic_model.get_topic_info()
 print(f"\n  Total topics: {len(topic_info) - 1}  (excl. outlier topic -1)")
