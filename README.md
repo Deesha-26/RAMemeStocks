@@ -19,12 +19,12 @@
 | File | What it stores |
 |---|---|
 | `topic_embeddings.safetensors` | Topic centroids in 5D UMAP space (224 × 5) |
-| `ctfidf.safetensors` | The c-TF-IDF matrix — word weights per topic |
+| `ctfidf.safetensors` | The c-TF-IDF matrix (word weights per topic) |
 | `topics.json` | Topic keywords, labels, and document counts |
 | `umap_reduced_sample.npy` | (30,000 × 5) reduced embeddings checkpoint |
 | `topic_info_sample.csv` | All 223 topics with keywords, doc counts, and A/B/C flags |
 | `wsb_topics_sample.csv` | Every comment with its topic ID and flag columns |
-| `flagged_topic_samples_sample.csv` | Representative + top-upvoted comments per flagged topic |
+| `flagged_topic_samples_sample.csv` | Representative & top-upvoted comments per flagged topic |
 
 ## First-Pass Topic Flags
 
