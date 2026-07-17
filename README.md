@@ -1,6 +1,6 @@
 # BERTopic Sample Run 
 
-**Sample Run Data:** r/wallstreetbets comments, January 27–28 2021 (Reddit outage days)  
+**Sample Run Data:** Reddit wallstreetbets comments, January 27–28 2021 (Reddit outage days)  
 **Sample size:** 30,000 comments  
 **Pipeline:** UMAP (768 → 5 dims) → HDBSCAN → c-TF-IDF → SafeTensors  
 
